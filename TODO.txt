@@ -1,0 +1,5 @@
+1) Pegar dados de uma planilha
+
+2) Cada lutador ser transformado em um Objeto, utilizando os fundamentos de POO ao invés somente dos da linguagem Java
+
+3) Reorganizar Imagens
